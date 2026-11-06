@@ -21,3 +21,7 @@
     --font-body: "Inter", sans-serif
 }
 
+.text-highlight{
+    color: var(--color-purple400);
+}
+
